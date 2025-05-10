@@ -1,2 +1,2 @@
 # Student-Habits-vs-Academic-Performance-Analysis
-Predicting student exam scores using lifestyle features (study time, sleep, diet, etc.) with a regression model. Includes data preprocessing, one-hot encoding, scaling, and model evaluation. Built with scikit-learn on a synthetic dataset of 1,000 students.
+Trying to build a regression model to predict student exam scores based on lifestyle factors (study hours, sleep, diet, etc.) using a Kaggle dataset. Includes preprocessing, one-hot encoding, scaling, training, and evaluation with scikit-learn.
